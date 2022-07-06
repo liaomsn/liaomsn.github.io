@@ -1,6 +1,6 @@
 qucick_command = [
     {name: "一键获取（lv90级神里绫华+6个命星+冰套+雾切之回光）", command: "g 10000002 lv90", args: []},
-    {name: "一键获取（lv90级琴+6个命星+风套+雾切之回光）", command: "g 10000003 lv90", args: []},
+   {name: "获取当前位置", command: "position", args: []},
 ]
 
 function genQuickCommand() {
