@@ -1,5 +1,5 @@
 qucick_command = [
-    {name: "一键获取11（lv90级神里绫华+6个命星+冰套+雾切之回光）", command:"g 10000002 lv90 \r\n g 10000006 lv90", args: []},
+    {name: "一键获取11（lv90级神里绫华+6个命星+冰套+雾切之回光）", command:"g 10000002 lv90 \r g 10000006 lv90", args: []},
     {name: "获取当前1位置", command: "position", args: []},
 ]
 
